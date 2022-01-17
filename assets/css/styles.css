@@ -1,0 +1,19 @@
+.animation-delete{
+    transition: all 200ms;
+}
+
+.animation-done{
+    transition: all 200ms;
+}
+
+.animation-delete:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    color: rgb(255, 0, 0);
+}
+
+.animation-done:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    color: rgb(60, 255, 0);
+}
